@@ -1,6 +1,6 @@
 # student_management
 
-A new Flutter project.
+A Flutter mobile app that helps to manage students details like inputing students information, edit and create new students profile
 
 ## Getting Started
 
@@ -13,4 +13,4 @@ A few resources to get you started if this is your first Flutter project:
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+samples, guidance on mobile developmen
